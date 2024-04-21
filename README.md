@@ -16,12 +16,13 @@
             <optional>true</optional>
 </dependency>
 ```
-## Tomcat 
+## MSSQL
 ```
 <dependency>
-    <groupId>org.apache.tomcat.embed</groupId>
-    <artifactId>tomcat-embed-jasper</artifactId>
-</dependency>
+	<groupId>com.microsoft.sqlserver</groupId>
+	<artifactId>mssql-jdbc</artifactId>
+	<version>12.4.2.jre11</version>
+</dependency
 ```
 ## Spring Validator 
 ``` 
