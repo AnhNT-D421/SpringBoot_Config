@@ -1,6 +1,6 @@
 # Config_SpringBoot_WEB
 
-## Config springframework 
+## Springframework 
 ```
 <dependency>
             <groupId>org.springframework.boot</groupId>
