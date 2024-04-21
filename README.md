@@ -24,6 +24,14 @@
 	<version>12.4.2.jre11</version>
 </dependency
 ```
+## RequestMethod
+```
+<dependency>
+	<groupId>org.springframework</groupId>
+	<artifactId>spring-web</artifactId>
+	<version>6.1.6</version>
+</dependency>
+```
 ## Spring Validator 
 ``` 
 <dependency>
