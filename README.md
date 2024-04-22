@@ -48,4 +48,8 @@
 	<optional>true</optional>
 </dependency>
 ```
+## Thymeleaf	 
+``` 
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+```
 
