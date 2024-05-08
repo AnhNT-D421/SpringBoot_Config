@@ -52,4 +52,8 @@
 ``` 
 <html lang="en" xmlns:th="http://www.thymeleaf.org">
 ```
+## Application.properties	 
+``` 
+spring.mvc.view.prefix=/WEB-INF/views/
+spring.mvc.view.suffix=.jsp```
 
