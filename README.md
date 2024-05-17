@@ -63,4 +63,12 @@ spring.mvc.view.suffix=.jsp
 ``` 
 <%@ page contentType="text/html; charset=UTF-8" %>
 ```
+## ISTL C	 
+``` 
+<%@ taglib prefix = "c" uri = "http://java.sun.com/jsp/jstl/core" %>
+```
+## Spring form	 
+``` 
+<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
+```
 
