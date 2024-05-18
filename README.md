@@ -7,6 +7,27 @@
             <artifactId>spring-boot-starter-web</artifactId>
 </dependency>
 ```
+## Tomcat_embed_jasper
+```
+ <dependency>
+            <groupId>org.apache.tomcat.embed</groupId>
+            <artifactId>tomcat-embed-jasper</artifactId>
+            <version>10.1.15</version>
+ </dependency>
+```
+## JSTL
+```
+	<dependency>
+            <groupId>jakarta.servlet.jsp.jstl</groupId>
+            <artifactId>jakarta.servlet.jsp.jstl-api</artifactId>
+            <version>2.0.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.glassfish.web</groupId>
+            <artifactId>jakarta.servlet.jsp.jstl</artifactId>
+            <version>2.0.0</version>
+        </dependency>
+```
 ## Lombox
 
 ```
