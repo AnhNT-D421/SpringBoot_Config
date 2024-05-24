@@ -1,10 +1,10 @@
 # Config_SpringBoot_WEB
 
-## Springframework 
+## Spring boot starter JPA 
 ```
 <dependency>
             <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-web</artifactId>
+            <artifactId>spring-boot-starter-data-jpa</artifactId>
 </dependency>
 ```
 ## Tomcat_embed_jasper
